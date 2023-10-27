@@ -1,9 +1,11 @@
+#pragma once
+
 #include <string>
 #include <sstream>
 
-class TrueSolution {
+class Solution {
 public:
-    TrueSolution() : latch1_(0), latch2_(0) {}
+    Solution() : latch1_(0), latch2_(0) {}
 
     std::string RunAndReset(std::string input) {
         std::stringstream output;
