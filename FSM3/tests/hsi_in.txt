@@ -1,0 +1,29 @@
+Connect Connect Connect 
+Connect Connect DATA 
+Connect MAILFROM_0 Connect 
+Connect MAILFROM_1 Connect 
+Connect MAILFROM_1 DATA 
+Connect RCPTTO_0 Connect 
+Connect RCPTTO_0 DATA 
+Connect RCPTTO_1 Connect 
+Connect DATA Connect 
+Connect QUIT Connect 
+MAILFROM_0 Connect Connect 
+MAILFROM_0 MAILFROM_0 Connect 
+MAILFROM_0 MAILFROM_1 Connect 
+MAILFROM_0 RCPTTO_0 Connect 
+MAILFROM_0 RCPTTO_1 Connect 
+MAILFROM_0 DATA Connect 
+MAILFROM_0 DATA DATA 
+MAILFROM_0 QUIT Connect 
+MAILFROM_0 QUIT DATA 
+MAILFROM_1 Connect 
+MAILFROM_1 DATA 
+RCPTTO_0 Connect 
+RCPTTO_0 DATA 
+RCPTTO_1 Connect 
+RCPTTO_1 DATA 
+DATA Connect 
+DATA DATA 
+QUIT Connect 
+QUIT DATA 

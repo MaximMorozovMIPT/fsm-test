@@ -1,0 +1,90 @@
+HSI
+
+Overall mutation trial summary
+==============================
+ - DETECTED: 21
+ - SURVIVED: 3
+ - TOTAL RUNS: 24
+ - RUN DATETIME: 2024-03-16 21:32:13.410211
+
+2024-03-16 21:32:13,410: Detected mutations:
+
+DETECTED
+--------
+ - solution.py: (l: 59, c: 16) - mutation from If_Statement to If_False
+ - solution.py: (l: 59, c: 16) - mutation from If_Statement to If_True
+ - solution.py: (l: 59, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.Lt'>
+ - solution.py: (l: 59, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.GtE'>
+ - solution.py: (l: 59, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.NotEq'>
+ - solution.py: (l: 59, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.Gt'>
+ - solution.py: (l: 66, c: 16) - mutation from If_Statement to If_True
+ - solution.py: (l: 66, c: 16) - mutation from If_Statement to If_False
+ - solution.py: (l: 66, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.Gt'>
+ - solution.py: (l: 66, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.Lt'>
+ - solution.py: (l: 66, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.GtE'>
+ - solution.py: (l: 66, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.NotEq'>
+ - solution.py: (l: 73, c: 16) - mutation from If_Statement to If_False
+ - solution.py: (l: 73, c: 16) - mutation from If_Statement to If_True
+ - solution.py: (l: 73, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.NotEq'>
+ - solution.py: (l: 73, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.Lt'>
+ - solution.py: (l: 73, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.LtE'>
+ - solution.py: (l: 73, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.Gt'>
+ - solution.py: (l: 80, c: 20) - mutation from AugAssign_Add to AugAssign_Mult
+ - solution.py: (l: 80, c: 20) - mutation from AugAssign_Add to AugAssign_Sub
+ - solution.py: (l: 80, c: 20) - mutation from AugAssign_Add to AugAssign_Div
+
+2024-03-16 21:32:13,410: Timedout mutations:
+
+2024-03-16 21:32:13,410: Surviving mutations:
+
+SURVIVED
+--------
+ - solution.py: (l: 59, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.LtE'>
+ - solution.py: (l: 66, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.LtE'>
+ - solution.py: (l: 73, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.GtE'>
+
+
+TOUR 
+
+Overall mutation trial summary
+==============================
+ - DETECTED: 21
+ - SURVIVED: 3
+ - TOTAL RUNS: 24
+ - RUN DATETIME: 2024-03-16 21:32:43.865115
+
+2024-03-16 21:32:43,865: Detected mutations:
+
+DETECTED
+--------
+ - solution.py: (l: 59, c: 16) - mutation from If_Statement to If_True
+ - solution.py: (l: 59, c: 16) - mutation from If_Statement to If_False
+ - solution.py: (l: 59, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.Lt'>
+ - solution.py: (l: 59, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.GtE'>
+ - solution.py: (l: 59, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.NotEq'>
+ - solution.py: (l: 59, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.Gt'>
+ - solution.py: (l: 66, c: 16) - mutation from If_Statement to If_False
+ - solution.py: (l: 66, c: 16) - mutation from If_Statement to If_True
+ - solution.py: (l: 66, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.Gt'>
+ - solution.py: (l: 66, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.Lt'>
+ - solution.py: (l: 66, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.GtE'>
+ - solution.py: (l: 66, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.NotEq'>
+ - solution.py: (l: 73, c: 16) - mutation from If_Statement to If_True
+ - solution.py: (l: 73, c: 16) - mutation from If_Statement to If_False
+ - solution.py: (l: 73, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.NotEq'>
+ - solution.py: (l: 73, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.Lt'>
+ - solution.py: (l: 73, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.LtE'>
+ - solution.py: (l: 73, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.Gt'>
+ - solution.py: (l: 80, c: 20) - mutation from AugAssign_Add to AugAssign_Sub
+ - solution.py: (l: 80, c: 20) - mutation from AugAssign_Add to AugAssign_Mult
+ - solution.py: (l: 80, c: 20) - mutation from AugAssign_Add to AugAssign_Div
+
+2024-03-16 21:32:43,865: Timedout mutations:
+
+2024-03-16 21:32:43,865: Surviving mutations:
+
+SURVIVED
+--------
+ - solution.py: (l: 59, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.LtE'>
+ - solution.py: (l: 66, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.LtE'>
+ - solution.py: (l: 73, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.GtE'>

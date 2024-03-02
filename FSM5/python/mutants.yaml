@@ -1,0 +1,164 @@
+HSI
+
+Overall mutation trial summary
+==============================
+ - DETECTED: 45
+ - SURVIVED: 16
+ - TOTAL RUNS: 61
+ - RUN DATETIME: 2024-03-19 19:45:46.699090
+
+
+Mutations by result status
+==========================
+
+
+SURVIVED
+--------
+ - solution.py: (l: 10, c: 31) - mutation from False to True
+ - solution.py: (l: 10, c: 31) - mutation from False to None
+ - solution.py: (l: 39, c: 43) - mutation from False to True
+ - solution.py: (l: 39, c: 43) - mutation from False to None
+ - solution.py: (l: 56, c: 50) - mutation from <class 'ast.Eq'> to <class 'ast.LtE'>
+ - solution.py: (l: 97, c: 43) - mutation from False to None
+ - solution.py: (l: 97, c: 43) - mutation from False to True
+ - solution.py: (l: 101, c: 43) - mutation from False to None
+ - solution.py: (l: 103, c: 21) - mutation from <class 'ast.Eq'> to <class 'ast.GtE'>
+ - solution.py: (l: 105, c: 43) - mutation from False to True
+ - solution.py: (l: 105, c: 43) - mutation from False to None
+ - solution.py: (l: 110, c: 35) - mutation from <class 'ast.Eq'> to <class 'ast.Gt'>
+ - solution.py: (l: 110, c: 35) - mutation from <class 'ast.Eq'> to <class 'ast.GtE'>
+ - solution.py: (l: 114, c: 16) - mutation from If_Statement to If_False
+ - solution.py: (l: 114, c: 21) - mutation from <class 'ast.Eq'> to <class 'ast.Gt'>
+ - solution.py: (l: 114, c: 21) - mutation from <class 'ast.Eq'> to <class 'ast.GtE'>
+
+
+DETECTED
+--------
+ - solution.py: (l: 32, c: 46) - mutation from True to False
+ - solution.py: (l: 32, c: 46) - mutation from True to None
+ - solution.py: (l: 43, c: 12) - mutation from If_Statement to If_True
+ - solution.py: (l: 43, c: 12) - mutation from If_Statement to If_False
+ - solution.py: (l: 56, c: 50) - mutation from <class 'ast.Eq'> to <class 'ast.GtE'>
+ - solution.py: (l: 56, c: 50) - mutation from <class 'ast.Eq'> to <class 'ast.NotEq'>
+ - solution.py: (l: 56, c: 50) - mutation from <class 'ast.Eq'> to <class 'ast.Lt'>
+ - solution.py: (l: 56, c: 50) - mutation from <class 'ast.Eq'> to <class 'ast.Gt'>
+ - solution.py: (l: 66, c: 12) - mutation from If_Statement to If_False
+ - solution.py: (l: 66, c: 12) - mutation from If_Statement to If_True
+ - solution.py: (l: 71, c: 47) - mutation from True to None
+ - solution.py: (l: 71, c: 47) - mutation from True to False
+ - solution.py: (l: 82, c: 12) - mutation from If_Statement to If_False
+ - solution.py: (l: 82, c: 12) - mutation from If_Statement to If_True
+ - solution.py: (l: 95, c: 35) - mutation from <class 'ast.Eq'> to <class 'ast.Lt'>
+ - solution.py: (l: 95, c: 35) - mutation from <class 'ast.Eq'> to <class 'ast.GtE'>
+ - solution.py: (l: 95, c: 35) - mutation from <class 'ast.Eq'> to <class 'ast.LtE'>
+ - solution.py: (l: 95, c: 35) - mutation from <class 'ast.Eq'> to <class 'ast.Gt'>
+ - solution.py: (l: 95, c: 35) - mutation from <class 'ast.Eq'> to <class 'ast.NotEq'>
+ - solution.py: (l: 95, c: 64) - mutation from <class 'ast.Eq'> to <class 'ast.GtE'>
+ - solution.py: (l: 95, c: 64) - mutation from <class 'ast.Eq'> to <class 'ast.NotEq'>
+ - solution.py: (l: 95, c: 64) - mutation from <class 'ast.Eq'> to <class 'ast.Lt'>
+ - solution.py: (l: 95, c: 64) - mutation from <class 'ast.Eq'> to <class 'ast.LtE'>
+ - solution.py: (l: 95, c: 64) - mutation from <class 'ast.Eq'> to <class 'ast.Gt'>
+ - solution.py: (l: 99, c: 16) - mutation from If_Statement to If_False
+ - solution.py: (l: 99, c: 16) - mutation from If_Statement to If_True
+ - solution.py: (l: 101, c: 43) - mutation from False to True
+ - solution.py: (l: 103, c: 21) - mutation from <class 'ast.Eq'> to <class 'ast.NotEq'>
+ - solution.py: (l: 103, c: 21) - mutation from <class 'ast.Eq'> to <class 'ast.Lt'>
+ - solution.py: (l: 103, c: 21) - mutation from <class 'ast.Eq'> to <class 'ast.LtE'>
+ - solution.py: (l: 103, c: 21) - mutation from <class 'ast.Eq'> to <class 'ast.Gt'>
+ - solution.py: (l: 106, c: 39) - mutation from True to False
+ - solution.py: (l: 106, c: 39) - mutation from True to None
+ - solution.py: (l: 110, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.NotEq'>
+ - solution.py: (l: 110, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.GtE'>
+ - solution.py: (l: 110, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.LtE'>
+ - solution.py: (l: 110, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.Lt'>
+ - solution.py: (l: 110, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.Gt'>
+ - solution.py: (l: 110, c: 35) - mutation from <class 'ast.Eq'> to <class 'ast.Lt'>
+ - solution.py: (l: 110, c: 35) - mutation from <class 'ast.Eq'> to <class 'ast.NotEq'>
+ - solution.py: (l: 110, c: 35) - mutation from <class 'ast.Eq'> to <class 'ast.LtE'>
+ - solution.py: (l: 114, c: 16) - mutation from If_Statement to If_True
+ - solution.py: (l: 114, c: 21) - mutation from <class 'ast.Eq'> to <class 'ast.NotEq'>
+ - solution.py: (l: 114, c: 21) - mutation from <class 'ast.Eq'> to <class 'ast.Lt'>
+ - solution.py: (l: 114, c: 21) - mutation from <class 'ast.Eq'> to <class 'ast.LtE'>
+
+
+TOUR
+
+Overall mutation trial summary
+==============================
+ - DETECTED: 29
+ - SURVIVED: 32
+ - TOTAL RUNS: 61
+ - RUN DATETIME: 2024-03-19 19:46:42.503873
+
+
+Mutations by result status
+==========================
+
+
+SURVIVED
+--------
+ - solution.py: (l: 10, c: 31) - mutation from False to True
+ - solution.py: (l: 10, c: 31) - mutation from False to None
+ - solution.py: (l: 39, c: 43) - mutation from False to True
+ - solution.py: (l: 39, c: 43) - mutation from False to None
+ - solution.py: (l: 56, c: 50) - mutation from <class 'ast.Eq'> to <class 'ast.LtE'>
+ - solution.py: (l: 56, c: 50) - mutation from <class 'ast.Eq'> to <class 'ast.Lt'>
+ - solution.py: (l: 97, c: 43) - mutation from False to None
+ - solution.py: (l: 97, c: 43) - mutation from False to True
+ - solution.py: (l: 101, c: 43) - mutation from False to True
+ - solution.py: (l: 101, c: 43) - mutation from False to None
+ - solution.py: (l: 103, c: 21) - mutation from <class 'ast.Eq'> to <class 'ast.GtE'>
+ - solution.py: (l: 105, c: 43) - mutation from False to True
+ - solution.py: (l: 105, c: 43) - mutation from False to None
+ - solution.py: (l: 106, c: 39) - mutation from True to False
+ - solution.py: (l: 106, c: 39) - mutation from True to None
+ - solution.py: (l: 110, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.NotEq'>
+ - solution.py: (l: 110, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.GtE'>
+ - solution.py: (l: 110, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.LtE'>
+ - solution.py: (l: 110, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.Lt'>
+ - solution.py: (l: 110, c: 19) - mutation from <class 'ast.Eq'> to <class 'ast.Gt'>
+ - solution.py: (l: 110, c: 35) - mutation from <class 'ast.Eq'> to <class 'ast.Lt'>
+ - solution.py: (l: 110, c: 35) - mutation from <class 'ast.Eq'> to <class 'ast.Gt'>
+ - solution.py: (l: 110, c: 35) - mutation from <class 'ast.Eq'> to <class 'ast.NotEq'>
+ - solution.py: (l: 110, c: 35) - mutation from <class 'ast.Eq'> to <class 'ast.GtE'>
+ - solution.py: (l: 110, c: 35) - mutation from <class 'ast.Eq'> to <class 'ast.LtE'>
+ - solution.py: (l: 114, c: 16) - mutation from If_Statement to If_True
+ - solution.py: (l: 114, c: 16) - mutation from If_Statement to If_False
+ - solution.py: (l: 114, c: 21) - mutation from <class 'ast.Eq'> to <class 'ast.NotEq'>
+ - solution.py: (l: 114, c: 21) - mutation from <class 'ast.Eq'> to <class 'ast.Gt'>
+ - solution.py: (l: 114, c: 21) - mutation from <class 'ast.Eq'> to <class 'ast.Lt'>
+ - solution.py: (l: 114, c: 21) - mutation from <class 'ast.Eq'> to <class 'ast.LtE'>
+ - solution.py: (l: 114, c: 21) - mutation from <class 'ast.Eq'> to <class 'ast.GtE'>
+
+
+DETECTED
+--------
+ - solution.py: (l: 32, c: 46) - mutation from True to False
+ - solution.py: (l: 32, c: 46) - mutation from True to None
+ - solution.py: (l: 43, c: 12) - mutation from If_Statement to If_True
+ - solution.py: (l: 43, c: 12) - mutation from If_Statement to If_False
+ - solution.py: (l: 56, c: 50) - mutation from <class 'ast.Eq'> to <class 'ast.GtE'>
+ - solution.py: (l: 56, c: 50) - mutation from <class 'ast.Eq'> to <class 'ast.NotEq'>
+ - solution.py: (l: 56, c: 50) - mutation from <class 'ast.Eq'> to <class 'ast.Gt'>
+ - solution.py: (l: 66, c: 12) - mutation from If_Statement to If_False
+ - solution.py: (l: 66, c: 12) - mutation from If_Statement to If_True
+ - solution.py: (l: 71, c: 47) - mutation from True to None
+ - solution.py: (l: 71, c: 47) - mutation from True to False
+ - solution.py: (l: 82, c: 12) - mutation from If_Statement to If_False
+ - solution.py: (l: 82, c: 12) - mutation from If_Statement to If_True
+ - solution.py: (l: 95, c: 35) - mutation from <class 'ast.Eq'> to <class 'ast.Lt'>
+ - solution.py: (l: 95, c: 35) - mutation from <class 'ast.Eq'> to <class 'ast.GtE'>
+ - solution.py: (l: 95, c: 35) - mutation from <class 'ast.Eq'> to <class 'ast.LtE'>
+ - solution.py: (l: 95, c: 35) - mutation from <class 'ast.Eq'> to <class 'ast.Gt'>
+ - solution.py: (l: 95, c: 35) - mutation from <class 'ast.Eq'> to <class 'ast.NotEq'>
+ - solution.py: (l: 95, c: 64) - mutation from <class 'ast.Eq'> to <class 'ast.GtE'>
+ - solution.py: (l: 95, c: 64) - mutation from <class 'ast.Eq'> to <class 'ast.NotEq'>
+ - solution.py: (l: 95, c: 64) - mutation from <class 'ast.Eq'> to <class 'ast.Lt'>
+ - solution.py: (l: 95, c: 64) - mutation from <class 'ast.Eq'> to <class 'ast.LtE'>
+ - solution.py: (l: 95, c: 64) - mutation from <class 'ast.Eq'> to <class 'ast.Gt'>
+ - solution.py: (l: 99, c: 16) - mutation from If_Statement to If_False
+ - solution.py: (l: 99, c: 16) - mutation from If_Statement to If_True
+ - solution.py: (l: 103, c: 21) - mutation from <class 'ast.Eq'> to <class 'ast.NotEq'>
+ - solution.py: (l: 103, c: 21) - mutation from <class 'ast.Eq'> to <class 'ast.Lt'>
+ - solution.py: (l: 103, c: 21) - mutation from <class 'ast.Eq'> to <class 'ast.LtE'>
+ - solution.py: (l: 103, c: 21) - mutation from <class 'ast.Eq'> to <class 'ast.Gt'>

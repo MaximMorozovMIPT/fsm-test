@@ -1,0 +1,29 @@
+Service_ready IncorrectCommand IncorrectCommand 
+Service_ready IncorrectCommand Start_mail 
+Service_ready SynraxErr IncorrectCommand 
+Service_ready OK IncorrectCommand 
+Service_ready OK Start_mail 
+Service_ready NO_USER IncorrectCommand 
+Service_ready NO_USER Service_unavaliable 
+Service_ready OK IncorrectCommand 
+Service_ready Start_mail IncorrectCommand 
+Service_ready Service_closing Service_ready 
+IncorrectCommand Service_ready IncorrectCommand 
+IncorrectCommand IncorrectCommand Service_ready 
+IncorrectCommand IncorrectCommand Service_ready 
+IncorrectCommand IncorrectCommand Service_ready 
+IncorrectCommand IncorrectCommand Service_ready 
+IncorrectCommand IncorrectCommand Service_ready 
+IncorrectCommand IncorrectCommand IncorrectCommand 
+IncorrectCommand IncorrectCommand Service_ready 
+IncorrectCommand IncorrectCommand IncorrectCommand 
+IncorrectCommand Service_ready 
+IncorrectCommand IncorrectCommand 
+IncorrectCommand Service_ready 
+IncorrectCommand IncorrectCommand 
+IncorrectCommand Service_ready 
+IncorrectCommand IncorrectCommand 
+IncorrectCommand Service_ready 
+IncorrectCommand IncorrectCommand 
+IncorrectCommand Service_ready 
+IncorrectCommand IncorrectCommand 

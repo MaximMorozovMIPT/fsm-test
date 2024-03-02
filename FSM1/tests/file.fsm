@@ -1,0 +1,37 @@
+F 0
+s 9 S1_000 S2_000 S2_100 S2_200 S2_010 S2_110 S2_210 S3_000 S3_001
+i 9 ConReq_0 ConReq_1 ConReq_2 accept_0 accept_1 accept_2 refuse Data Reset
+o 9 connect_0 connect_1 NonSupport_2 CONcnf_0 CONcnf_1 CONcnfNeg data_0 data_1 abort
+n0 S1_000
+p 31
+S1_000 ConReq_0 S2_000 connect_0
+S1_000 ConReq_1 S2_010 connect_1
+S1_000 ConReq_2 S1_000 NonSupport_2
+S2_000 refuse S2_100 connect_0
+S2_000 accept_0 S3_000 CONcnf_0
+S2_000 accept_1 S3_000 CONcnf_0
+S2_000 accept_2 S3_000 CONcnf_0
+S2_100 refuse S2_200 connect_0
+S2_100 accept_0 S3_000 CONcnf_0
+S2_100 accept_1 S3_000 CONcnf_0
+S2_100 accept_2 S3_000 CONcnf_0
+S2_200 refuse S1_000 CONcnfNeg
+S2_200 accept_0 S3_000 CONcnf_0
+S2_200 accept_1 S3_000 CONcnf_0
+S2_200 accept_2 S3_000 CONcnf_0
+S2_010 refuse S2_110 connect_1
+S2_010 accept_0 S3_000 CONcnf_0
+S2_010 accept_1 S3_001 CONcnf_1
+S2_010 accept_2 S3_001 CONcnf_1
+S2_110 refuse S2_210 connect_1
+S2_110 accept_0 S3_000 CONcnf_0
+S2_110 accept_1 S3_001 CONcnf_1
+S2_110 accept_2 S3_001 CONcnf_1
+S2_210 refuse S1_000 CONcnfNeg
+S2_210 accept_0 S3_000 CONcnf_0
+S2_210 accept_1 S3_001 CONcnf_1
+S2_210 accept_2 S3_001 CONcnf_1
+S3_000 Data S3_000 data_0
+S3_000 Reset S1_000 abort
+S3_001 Data S3_001 data_1
+S3_001 Reset S1_000 abort
