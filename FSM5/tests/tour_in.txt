@@ -1,0 +1,10 @@
+Num Num Minus Num Num Minus Minus Num Plus Plus Div Mult Equal Reset Minus Num Plus 
+Plus Div Mult Equal Reset 
+Minus Minus Plus Div Mult Equal Reset 
+Num Minus Minus Minus Plus Div Mult Equal Reset 
+Num Minus Num Div 
+Num Minus Num Mult 
+Num Minus Num Equal Div 
+Num Minus Num Reset 
+Num Mult 
+Num Equal Reset 

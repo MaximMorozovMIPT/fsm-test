@@ -1,0 +1,29 @@
+Connect/Service_ready Connect/IncorrectCommand Connect/IncorrectCommand
+Connect/Service_ready Connect/IncorrectCommand DATA/Start_mail
+Connect/Service_ready MAILFROM_0/SynraxErr Connect/IncorrectCommand
+Connect/Service_ready MAILFROM_1/OK Connect/IncorrectCommand
+Connect/Service_ready MAILFROM_1/OK DATA/Start_mail
+Connect/Service_ready RCPTTO_0/NO_USER Connect/IncorrectCommand
+Connect/Service_ready RCPTTO_0/NO_USER DATA/Service_unavaliable
+Connect/Service_ready RCPTTO_1/OK Connect/IncorrectCommand
+Connect/Service_ready DATA/Start_mail Connect/IncorrectCommand
+Connect/Service_ready QUIT/Service_closing Connect/Service_ready
+MAILFROM_0/IncorrectCommand Connect/Service_ready Connect/IncorrectCommand
+MAILFROM_0/IncorrectCommand MAILFROM_0/IncorrectCommand Connect/Service_ready
+MAILFROM_0/IncorrectCommand MAILFROM_1/IncorrectCommand Connect/Service_ready
+MAILFROM_0/IncorrectCommand RCPTTO_0/IncorrectCommand Connect/Service_ready
+MAILFROM_0/IncorrectCommand RCPTTO_1/IncorrectCommand Connect/Service_ready
+MAILFROM_0/IncorrectCommand DATA/IncorrectCommand Connect/Service_ready
+MAILFROM_0/IncorrectCommand DATA/IncorrectCommand DATA/IncorrectCommand
+MAILFROM_0/IncorrectCommand QUIT/IncorrectCommand Connect/Service_ready
+MAILFROM_0/IncorrectCommand QUIT/IncorrectCommand DATA/IncorrectCommand
+MAILFROM_1/IncorrectCommand Connect/Service_ready
+MAILFROM_1/IncorrectCommand DATA/IncorrectCommand
+RCPTTO_0/IncorrectCommand Connect/Service_ready
+RCPTTO_0/IncorrectCommand DATA/IncorrectCommand
+RCPTTO_1/IncorrectCommand Connect/Service_ready
+RCPTTO_1/IncorrectCommand DATA/IncorrectCommand
+DATA/IncorrectCommand Connect/Service_ready
+DATA/IncorrectCommand DATA/IncorrectCommand
+QUIT/IncorrectCommand Connect/Service_ready
+QUIT/IncorrectCommand DATA/IncorrectCommand

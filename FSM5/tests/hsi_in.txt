@@ -1,0 +1,74 @@
+Num Num Num 
+Num Num Equal 
+Num Minus Num Num Num 
+Num Minus Num Num Equal 
+Num Minus Num Minus Num 
+Num Minus Num Minus Minus 
+Num Minus Num Plus Num 
+Num Minus Num Plus Minus 
+Num Minus Num Div Num 
+Num Minus Num Div Minus 
+Num Minus Num Mult Num 
+Num Minus Num Mult Minus 
+Num Minus Num Equal Num 
+Num Minus Num Equal Equal 
+Num Minus Num Reset Num 
+Num Minus Num Reset Minus 
+Num Minus Minus Num Num 
+Num Minus Minus Num Equal 
+Num Minus Minus Minus Num 
+Num Minus Minus Minus Minus 
+Num Minus Minus Plus Num 
+Num Minus Minus Plus Minus 
+Num Minus Minus Div Num 
+Num Minus Minus Div Minus 
+Num Minus Minus Mult Num 
+Num Minus Minus Mult Minus 
+Num Minus Minus Equal Num 
+Num Minus Minus Equal Minus 
+Num Minus Minus Reset Num 
+Num Minus Minus Reset Minus 
+Num Minus Plus Num 
+Num Minus Plus Minus 
+Num Minus Div Num 
+Num Minus Div Minus 
+Num Minus Mult Num 
+Num Minus Mult Minus 
+Num Minus Equal Num 
+Num Minus Equal Minus 
+Num Minus Reset Num 
+Num Minus Reset Minus 
+Num Plus Num 
+Num Plus Minus 
+Num Div Num 
+Num Div Minus 
+Num Mult Num 
+Num Mult Minus 
+Num Equal Num 
+Num Equal Equal 
+Num Reset Num 
+Num Reset Minus 
+Minus Num Num 
+Minus Num Equal 
+Minus Minus Num 
+Minus Minus Minus 
+Minus Plus Num 
+Minus Plus Minus 
+Minus Div Num 
+Minus Div Minus 
+Minus Mult Num 
+Minus Mult Minus 
+Minus Equal Num 
+Minus Equal Minus 
+Minus Reset Num 
+Minus Reset Minus 
+Plus Num 
+Plus Minus 
+Div Num 
+Div Minus 
+Mult Num 
+Mult Minus 
+Equal Num 
+Equal Minus 
+Reset Num 
+Reset Minus 

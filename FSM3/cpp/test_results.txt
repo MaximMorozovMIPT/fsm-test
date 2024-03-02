@@ -1,0 +1,63 @@
+HSITestSolution OK
+HSITestMutant1 fail: Assertion failed:  != Service_ready IncorrectCommand Start_mail  hint: ans != str_out, main.cpp:45
+HSITestMutant2 fail: Assertion failed:  != Service_ready IncorrectCommand Start_mail  hint: ans != str_out, main.cpp:46
+HSITestMutant3 fail: Assertion failed:  != Service_ready IncorrectCommand Start_mail  hint: ans != str_out, main.cpp:47
+HSITestMutant4 fail: Assertion failed:  != Service_ready IncorrectCommand Start_mail  hint: ans != str_out, main.cpp:48
+HSITestMutant5 fail: Assertion failed: Service_ready Service_closing  != Service_ready Service_closing Service_ready  hint: ans != str_out, main.cpp:49
+HSITestMutant6 fail: Assertion failed: Service_ready OK OK  != Service_ready IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:50
+HSITestMutant7 fail: Assertion failed: Service_ready Service_closing Service_ready  != Service_ready IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:51
+HSITestMutant8 fail: Assertion failed:  != Service_ready IncorrectCommand Start_mail  hint: ans != str_out, main.cpp:52
+HSITestMutant9 fail: Assertion failed: Service_ready Service_closing Service_ready  != Service_ready IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:53
+HSITestMutant10 fail: Assertion failed: Service_ready Service_closing  != Service_ready Service_closing Service_ready  hint: ans != str_out, main.cpp:54
+HSITestMutant11 OK
+HSITestMutant12 fail: Assertion failed:  != Service_ready IncorrectCommand Start_mail  hint: ans != str_out, main.cpp:56
+HSITestMutant13 OK
+HSITestMutant14 fail: Assertion failed: Service_ready NO_USER NO_USER  != Service_ready IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:58
+HSITestMutant15 fail: Assertion failed:  != Service_ready IncorrectCommand Start_mail  hint: ans != str_out, main.cpp:59
+HSITestMutant16 fail: Assertion failed:  != Service_ready IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:60
+HSITestMutant17 fail: Assertion failed:  != Service_ready IncorrectCommand Start_mail  hint: ans != str_out, main.cpp:61
+HSITestMutant18 fail: Assertion failed: Service_ready  != Service_ready IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:62
+HSITestMutant19 fail: Assertion failed: Service_ready SynraxErr IncorrectCommand  != Service_ready OK IncorrectCommand  hint: ans != str_out, main.cpp:63
+HSITestMutant20 fail: Assertion failed: Service_ready  != Service_ready IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:64
+HSITestMutant21 fail: Assertion failed: Service_ready Service_closing Service_ready  != Service_ready IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:65
+HSITestMutant22 fail: Assertion failed:  != Service_ready IncorrectCommand Start_mail  hint: ans != str_out, main.cpp:66
+HSITestMutant23 OK
+HSITestMutant24 fail: Assertion failed: Service_ready  != Service_ready IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:68
+HSITestMutant25 fail: Assertion failed:  != Service_ready IncorrectCommand Start_mail  hint: ans != str_out, main.cpp:69
+HSITestMutant26 fail: Assertion failed:  != Service_ready IncorrectCommand Start_mail  hint: ans != str_out, main.cpp:70
+HSITestMutant27 fail: Assertion failed: Service_ready SynraxErr SynraxErr  != Service_ready IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:71
+HSITestMutant28 fail: Assertion failed:  != Service_ready IncorrectCommand Start_mail  hint: ans != str_out, main.cpp:72
+HSITestMutant29 fail: Assertion failed: Service_ready NO_USER NO_USER  != Service_ready IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:73
+HSITestMutant30 fail: Assertion failed: Service_ready  != Service_ready IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:74
+TourTestSolution OK
+TourTestMutant1 OK
+TourTestMutant2 OK
+TourTestMutant3 OK
+TourTestMutant4 OK
+TourTestMutant5 fail: Assertion failed: Service_ready IncorrectCommand SynraxErr IncorrectCommand SynraxErr OK OK NO_USER NO_USER OK OK Start_mail Service_closing  != Service_ready IncorrectCommand SynraxErr IncorrectCommand SynraxErr OK OK NO_USER NO_USER OK OK Start_mail Service_closing IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:81
+TourTestMutant6 fail: Assertion failed: Service_ready OK SynraxErr OK SynraxErr OK OK NO_USER NO_USER OK OK OK OK SynraxErr OK NO_USER OK OK OK  != Service_ready IncorrectCommand SynraxErr IncorrectCommand SynraxErr OK OK NO_USER NO_USER OK OK Start_mail Service_closing IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:82
+TourTestMutant7 fail: Assertion failed: Service_ready Service_closing IncorrectCommand Service_ready SynraxErr OK OK NO_USER NO_USER OK OK Start_mail Service_closing IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand  != Service_ready IncorrectCommand SynraxErr IncorrectCommand SynraxErr OK OK NO_USER NO_USER OK OK Start_mail Service_closing IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:83
+TourTestMutant8 OK
+TourTestMutant9 fail: Assertion failed: Service_ready Service_closing IncorrectCommand Service_ready SynraxErr OK OK NO_USER NO_USER OK OK Start_mail IncorrectCommand SynraxErr OK NO_USER OK Start_mail IncorrectCommand  != Service_ready IncorrectCommand SynraxErr IncorrectCommand SynraxErr OK OK NO_USER NO_USER OK OK Start_mail Service_closing IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:85
+TourTestMutant10 fail: Assertion failed: Service_ready IncorrectCommand SynraxErr IncorrectCommand SynraxErr OK OK NO_USER NO_USER OK OK Start_mail Service_closing  != Service_ready IncorrectCommand SynraxErr IncorrectCommand SynraxErr OK OK NO_USER NO_USER OK OK Start_mail Service_closing IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:86
+TourTestMutant11 OK
+TourTestMutant12 OK
+TourTestMutant13 OK
+TourTestMutant14 fail: Assertion failed: Service_ready NO_USER SynraxErr NO_USER SynraxErr OK OK IncorrectCommand IncorrectCommand NO_USER NO_USER NO_USER NO_USER SynraxErr OK IncorrectCommand NO_USER NO_USER NO_USER  != Service_ready IncorrectCommand SynraxErr IncorrectCommand SynraxErr OK OK NO_USER NO_USER OK OK Start_mail Service_closing IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:90
+TourTestMutant15 OK
+TourTestMutant16 fail: Assertion failed:  != Service_ready IncorrectCommand SynraxErr IncorrectCommand SynraxErr OK OK NO_USER NO_USER OK OK Start_mail Service_closing IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:92
+TourTestMutant17 OK
+TourTestMutant18 fail: Assertion failed: Service_ready  != Service_ready IncorrectCommand SynraxErr IncorrectCommand SynraxErr OK OK NO_USER NO_USER OK OK Start_mail Service_closing IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:94
+TourTestMutant19 fail: Assertion failed: Service_ready IncorrectCommand SynraxErr IncorrectCommand SynraxErr SynraxErr SynraxErr SynraxErr SynraxErr SynraxErr SynraxErr Service_unavaliable IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand  != Service_ready IncorrectCommand SynraxErr IncorrectCommand SynraxErr OK OK NO_USER NO_USER OK OK Start_mail Service_closing IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:95
+TourTestMutant20 fail: Assertion failed: Service_ready  != Service_ready IncorrectCommand SynraxErr IncorrectCommand SynraxErr OK OK NO_USER NO_USER OK OK Start_mail Service_closing IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:96
+TourTestMutant21 fail: Assertion failed: Service_ready Service_closing IncorrectCommand Service_ready SynraxErr OK OK NO_USER NO_USER OK OK Start_mail IncorrectCommand SynraxErr OK NO_USER OK Start_mail IncorrectCommand  != Service_ready IncorrectCommand SynraxErr IncorrectCommand SynraxErr OK OK NO_USER NO_USER OK OK Start_mail Service_closing IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:97
+TourTestMutant22 OK
+TourTestMutant23 OK
+TourTestMutant24 fail: Assertion failed: Service_ready  != Service_ready IncorrectCommand SynraxErr IncorrectCommand SynraxErr OK OK NO_USER NO_USER OK OK Start_mail Service_closing IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:100
+TourTestMutant25 OK
+TourTestMutant26 OK
+TourTestMutant27 fail: Assertion failed: Service_ready SynraxErr IncorrectCommand SynraxErr IncorrectCommand SynraxErr SynraxErr SynraxErr SynraxErr SynraxErr SynraxErr SynraxErr SynraxErr IncorrectCommand SynraxErr SynraxErr SynraxErr SynraxErr SynraxErr  != Service_ready IncorrectCommand SynraxErr IncorrectCommand SynraxErr OK OK NO_USER NO_USER OK OK Start_mail Service_closing IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:103
+TourTestMutant28 OK
+TourTestMutant29 fail: Assertion failed: Service_ready NO_USER SynraxErr NO_USER SynraxErr OK OK IncorrectCommand IncorrectCommand NO_USER NO_USER NO_USER NO_USER SynraxErr OK IncorrectCommand NO_USER NO_USER NO_USER  != Service_ready IncorrectCommand SynraxErr IncorrectCommand SynraxErr OK OK NO_USER NO_USER OK OK Start_mail Service_closing IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:105
+TourTestMutant30 fail: Assertion failed: Service_ready  != Service_ready IncorrectCommand SynraxErr IncorrectCommand SynraxErr OK OK NO_USER NO_USER OK OK Start_mail Service_closing IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:106
+42 unit tests failed. Terminate

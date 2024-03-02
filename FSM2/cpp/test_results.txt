@@ -1,0 +1,59 @@
+HSITestSolution OK
+HSITestMutant1 fail: Assertion failed:  != connect_accept time_mess connect_accept  hint: ans != str_out, main.cpp:45
+HSITestMutant2 fail: Assertion failed: connect_accept  != connect_accept IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:46
+HSITestMutant3 fail: Assertion failed:  != connect_accept time_mess connect_accept  hint: ans != str_out, main.cpp:47
+HSITestMutant4 fail: Assertion failed:  != connect_accept time_mess connect_accept  hint: ans != str_out, main.cpp:48
+HSITestMutant5 OK
+HSITestMutant6 OK
+HSITestMutant7 fail: Assertion failed:  != connect_accept time_mess connect_accept  hint: ans != str_out, main.cpp:51
+HSITestMutant8 fail: Assertion failed:  != connect_accept time_mess connect_accept  hint: ans != str_out, main.cpp:52
+HSITestMutant9 fail: Assertion failed:  != connect_accept time_mess connect_accept  hint: ans != str_out, main.cpp:53
+HSITestMutant10 fail: Assertion failed:  != connect_accept time_mess connect_accept  hint: ans != str_out, main.cpp:54
+HSITestMutant11 fail: Assertion failed:  != connect_accept time_mess connect_accept  hint: ans != str_out, main.cpp:55
+HSITestMutant12 fail: Assertion failed:  != connect_accept IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:56
+HSITestMutant13 fail: Assertion failed:  != connect_accept time_mess connect_accept  hint: ans != str_out, main.cpp:57
+HSITestMutant14 fail: Assertion failed:  != connect_accept time_mess connect_accept  hint: ans != str_out, main.cpp:58
+HSITestMutant15 fail: Assertion failed: connect_accept  != connect_accept IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:59
+HSITestMutant16 fail: Assertion failed: connect_accept  != connect_accept IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:60
+HSITestMutant17 fail: Assertion failed:  != connect_accept time_mess connect_accept  hint: ans != str_out, main.cpp:61
+HSITestMutant18 fail: Assertion failed:  != connect_accept time_mess connect_accept  hint: ans != str_out, main.cpp:62
+HSITestMutant19 fail: Assertion failed: connect_accept  != connect_accept IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:63
+HSITestMutant20 fail: Assertion failed:  != connect_accept time_mess connect_accept  hint: ans != str_out, main.cpp:64
+HSITestMutant21 fail: Assertion failed:  != connect_accept time_mess connect_accept  hint: ans != str_out, main.cpp:65
+HSITestMutant22 fail: Assertion failed:  != connect_accept IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:66
+HSITestMutant23 fail: Assertion failed: connect_accept time_mess  != connect_accept time_mess connect_accept  hint: ans != str_out, main.cpp:67
+HSITestMutant24 fail: Assertion failed: connect_accept  != connect_accept IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:68
+HSITestMutant25 fail: Assertion failed:  != connect_accept time_mess connect_accept  hint: ans != str_out, main.cpp:69
+HSITestMutant26 fail: Assertion failed:  != connect_accept time_mess connect_accept  hint: ans != str_out, main.cpp:70
+HSITestMutant27 fail: Assertion failed:  != connect_accept time_mess connect_accept  hint: ans != str_out, main.cpp:71
+HSITestMutant28 fail: Assertion failed:  != connect_accept IncorrectCommand IncorrectCommand  hint: ans != str_out, main.cpp:72
+TourTestSolution OK
+TourTestMutant1 OK
+TourTestMutant2 fail: Assertion failed: connect_accept  != connect_accept IncorrectCommand time_mess IncorrectCommand  hint: ans != str_out, main.cpp:76
+TourTestMutant3 OK
+TourTestMutant4 OK
+TourTestMutant5 OK
+TourTestMutant6 OK
+TourTestMutant7 OK
+TourTestMutant8 OK
+TourTestMutant9 OK
+TourTestMutant10 OK
+TourTestMutant11 OK
+TourTestMutant12 fail: Assertion failed:  != connect_accept IncorrectCommand time_mess IncorrectCommand  hint: ans != str_out, main.cpp:86
+TourTestMutant13 OK
+TourTestMutant14 OK
+TourTestMutant15 fail: Assertion failed: connect_accept  != connect_accept IncorrectCommand time_mess IncorrectCommand  hint: ans != str_out, main.cpp:89
+TourTestMutant16 fail: Assertion failed: connect_accept  != connect_accept IncorrectCommand time_mess IncorrectCommand  hint: ans != str_out, main.cpp:90
+TourTestMutant17 OK
+TourTestMutant18 OK
+TourTestMutant19 fail: Assertion failed: connect_accept  != connect_accept IncorrectCommand time_mess IncorrectCommand  hint: ans != str_out, main.cpp:93
+TourTestMutant20 OK
+TourTestMutant21 OK
+TourTestMutant22 fail: Assertion failed:  != connect_accept IncorrectCommand time_mess IncorrectCommand  hint: ans != str_out, main.cpp:96
+TourTestMutant23 fail: Assertion failed: connect_accept IncorrectCommand time_mess  != connect_accept IncorrectCommand time_mess IncorrectCommand  hint: ans != str_out, main.cpp:97
+TourTestMutant24 fail: Assertion failed: connect_accept  != connect_accept IncorrectCommand time_mess IncorrectCommand  hint: ans != str_out, main.cpp:98
+TourTestMutant25 OK
+TourTestMutant26 OK
+TourTestMutant27 OK
+TourTestMutant28 fail: Assertion failed:  != connect_accept IncorrectCommand time_mess IncorrectCommand  hint: ans != str_out, main.cpp:102
+35 unit tests failed. Terminate

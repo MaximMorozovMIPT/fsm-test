@@ -1,0 +1,10 @@
+Num/Operand_B Num/IncorrectCommand Minus/Opeartor_Entered Num/Operand_C Num/IncorrectCommand Minus/Opeartor_Entered Minus/Negative_num Num/Operand_C Plus/Opeartor_Entered Plus/IncorrectCommand Div/IncorrectCommand Mult/IncorrectCommand Equal/IncorrectCommand Reset/NULL Minus/Negative_num Num/Operand_B Plus/Opeartor_Entered
+Plus/IncorrectCommand Div/IncorrectCommand Mult/IncorrectCommand Equal/IncorrectCommand Reset/NULL
+Minus/Negative_num Minus/IncorrectCommand Plus/IncorrectCommand Div/IncorrectCommand Mult/IncorrectCommand Equal/IncorrectCommand Reset/NULL
+Num/Operand_B Minus/Opeartor_Entered Minus/Negative_num Minus/IncorrectCommand Plus/IncorrectCommand Div/IncorrectCommand Mult/IncorrectCommand Equal/IncorrectCommand Reset/NULL
+Num/Operand_B Minus/Opeartor_Entered Num/Operand_C Div/Opeartor_Entered
+Num/Operand_B Minus/Opeartor_Entered Num/Operand_C Mult/Opeartor_Entered
+Num/Operand_B Minus/Opeartor_Entered Num/Operand_C Equal/Result Div/Opeartor_Entered
+Num/Operand_B Minus/Opeartor_Entered Num/Operand_C Reset/NULL
+Num/Operand_B Mult/Opeartor_Entered
+Num/Operand_B Equal/IncorrectCommand Reset/NULL

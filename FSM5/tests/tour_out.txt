@@ -1,0 +1,10 @@
+Operand_B IncorrectCommand Opeartor_Entered Operand_C IncorrectCommand Opeartor_Entered Negative_num Operand_C Opeartor_Entered IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand NULL Negative_num Operand_B Opeartor_Entered 
+IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand NULL 
+Negative_num IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand NULL 
+Operand_B Opeartor_Entered Negative_num IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand IncorrectCommand NULL 
+Operand_B Opeartor_Entered Operand_C Opeartor_Entered 
+Operand_B Opeartor_Entered Operand_C Opeartor_Entered 
+Operand_B Opeartor_Entered Operand_C Result Opeartor_Entered 
+Operand_B Opeartor_Entered Operand_C NULL 
+Operand_B Opeartor_Entered 
+Operand_B IncorrectCommand NULL 

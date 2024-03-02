@@ -1,0 +1,48 @@
+F 0
+s 6 Start NegativeFirst Operator NegativeSecond SecondNum Result
+i 7 Num Minus Plus Div Mult Equal Reset
+o 7 Operand_B Negative_num NULL Opeartor_Entered Operand_C Result IncorrectCommand
+n0 Start
+p 42
+Start Num Result Operand_B
+Start Minus NegativeFirst Negative_num
+Start Plus Start IncorrectCommand 
+Start Div Start IncorrectCommand 
+Start Mult Start IncorrectCommand 
+Start Equal Start IncorrectCommand 
+Start Reset Start NULL
+NegativeFirst Num Result Operand_B
+NegativeFirst Minus NegativeFirst IncorrectCommand
+NegativeFirst Plus NegativeFirst IncorrectCommand
+NegativeFirst Div NegativeFirst IncorrectCommand
+NegativeFirst Mult NegativeFirst IncorrectCommand
+NegativeFirst Equal NegativeFirst IncorrectCommand
+NegativeFirst Reset Start NULL
+Operator Num SecondNum Operand_C
+Operator Minus NegativeSecond Negative_num
+Operator Plus Operator IncorrectCommand
+Operator Div Operator IncorrectCommand
+Operator Mult Operator IncorrectCommand
+Operator Equal Operator IncorrectCommand
+Operator Reset Start NULL
+NegativeSecond Num SecondNum Operand_C
+NegativeSecond Minus NegativeSecond IncorrectCommand
+NegativeSecond Plus NegativeSecond IncorrectCommand
+NegativeSecond Div NegativeSecond IncorrectCommand
+NegativeSecond Mult NegativeSecond IncorrectCommand
+NegativeSecond Equal NegativeSecond IncorrectCommand
+NegativeSecond Reset Start NULL
+SecondNum Num SecondNum IncorrectCommand
+SecondNum Minus Operator Opeartor_Entered
+SecondNum Plus Operator Opeartor_Entered
+SecondNum Div Operator Opeartor_Entered
+SecondNum Mult Operator Opeartor_Entered
+SecondNum Equal Result Result
+SecondNum Reset Start NULL
+Result Num Result IncorrectCommand
+Result Minus Operator Opeartor_Entered
+Result Plus Operator Opeartor_Entered
+Result Div Operator Opeartor_Entered
+Result Mult Operator Opeartor_Entered
+Result Equal Result IncorrectCommand
+Result Reset Start NULL

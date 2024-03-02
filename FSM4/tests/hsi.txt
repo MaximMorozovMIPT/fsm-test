@@ -1,0 +1,274 @@
+connect/OK_serverReady connect/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady connect/IncorrectCommand USER/OK_passRequired
+connect/OK_serverReady USER/OK_passRequired connect/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired connect/IncorrectCommand USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired connect/IncorrectCommand PASS_0/ERR_noSuchUser
+connect/OK_serverReady USER/OK_passRequired USER/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired USER/IncorrectCommand USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired USER/IncorrectCommand PASS_0/ERR_noSuchUser
+connect/OK_serverReady USER/OK_passRequired PASS_0/ERR_noSuchUser connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_0/ERR_noSuchUser USER/OK_passRequired
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK connect/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK connect/IncorrectCommand USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK connect/IncorrectCommand PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK connect/IncorrectCommand DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK USER/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK USER/IncorrectCommand USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK USER/IncorrectCommand PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK USER/IncorrectCommand DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK PASS_0/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK PASS_0/IncorrectCommand USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK PASS_0/IncorrectCommand PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK PASS_0/IncorrectCommand DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK PASS_1/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK PASS_1/IncorrectCommand USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK PASS_1/IncorrectCommand PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK PASS_1/IncorrectCommand DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK STAT/OK connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK STAT/OK USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK STAT/OK PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK STAT/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK LIST/OK connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK LIST/OK USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK LIST/OK PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK LIST/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK LIST_2/OK connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK LIST_2/OK USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK LIST_2/OK PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK LIST_2/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK LIST_4/ERR_noSuchMess connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK LIST_4/ERR_noSuchMess USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK LIST_4/ERR_noSuchMess PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK LIST_4/ERR_noSuchMess DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK RETR_2/OK_weight connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK RETR_2/OK_weight USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK RETR_2/OK_weight PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK RETR_2/OK_weight DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK RETR_4/ERR_noSuchMess connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK RETR_4/ERR_noSuchMess USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK RETR_4/ERR_noSuchMess PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK RETR_4/ERR_noSuchMess DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel connect/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel connect/IncorrectCommand USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel connect/IncorrectCommand PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel connect/IncorrectCommand DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel USER/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel USER/IncorrectCommand USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel USER/IncorrectCommand PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel USER/IncorrectCommand DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel PASS_0/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel PASS_0/IncorrectCommand USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel PASS_0/IncorrectCommand PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel PASS_0/IncorrectCommand DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel PASS_1/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel PASS_1/IncorrectCommand USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel PASS_1/IncorrectCommand PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel PASS_1/IncorrectCommand DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel STAT/OK connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel STAT/OK USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel STAT/OK PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel STAT/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel LIST/OK connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel LIST/OK USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel LIST/OK PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel LIST/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel LIST_2/OK connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel LIST_2/OK USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel LIST_2/OK PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel LIST_2/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel LIST_4/ERR_noSuchMess connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel LIST_4/ERR_noSuchMess USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel LIST_4/ERR_noSuchMess PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel LIST_4/ERR_noSuchMess DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel RETR_2/OK_weight connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel RETR_2/OK_weight USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel RETR_2/OK_weight PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel RETR_2/OK_weight DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel RETR_4/ERR_noSuchMess connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel RETR_4/ERR_noSuchMess USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel RETR_4/ERR_noSuchMess PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel RETR_4/ERR_noSuchMess DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel connect/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel connect/IncorrectCommand USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel connect/IncorrectCommand PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel connect/IncorrectCommand DELE_2/OK_messDel DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel USER/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel USER/IncorrectCommand USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel USER/IncorrectCommand PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel USER/IncorrectCommand DELE_2/OK_messDel DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel PASS_0/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel PASS_0/IncorrectCommand USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel PASS_0/IncorrectCommand PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel PASS_0/IncorrectCommand DELE_2/OK_messDel DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel PASS_1/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel PASS_1/IncorrectCommand USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel PASS_1/IncorrectCommand PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel PASS_1/IncorrectCommand DELE_2/OK_messDel DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel STAT/OK connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel STAT/OK USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel STAT/OK PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel STAT/OK DELE_2/OK_messDel DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel LIST/OK connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel LIST/OK USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel LIST/OK PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel LIST/OK DELE_2/OK_messDel DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel LIST_2/OK connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel LIST_2/OK USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel LIST_2/OK PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel LIST_2/OK DELE_2/OK_messDel DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel LIST_4/ERR_noSuchMess connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel LIST_4/ERR_noSuchMess USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel LIST_4/ERR_noSuchMess PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel LIST_4/ERR_noSuchMess DELE_2/OK_messDel DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel RETR_2/OK_weight connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel RETR_2/OK_weight USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel RETR_2/OK_weight PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel RETR_2/OK_weight DELE_2/OK_messDel DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel RETR_4/ERR_noSuchMess connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel RETR_4/ERR_noSuchMess USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel RETR_4/ERR_noSuchMess PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel RETR_4/ERR_noSuchMess DELE_2/OK_messDel DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel connect/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel connect/IncorrectCommand USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel connect/IncorrectCommand PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel connect/IncorrectCommand DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel USER/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel USER/IncorrectCommand USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel USER/IncorrectCommand PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel USER/IncorrectCommand DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel PASS_0/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel PASS_0/IncorrectCommand USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel PASS_0/IncorrectCommand PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel PASS_0/IncorrectCommand DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel PASS_1/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel PASS_1/IncorrectCommand USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel PASS_1/IncorrectCommand PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel PASS_1/IncorrectCommand DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel STAT/OK connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel STAT/OK USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel STAT/OK PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel STAT/OK DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel LIST/OK connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel LIST/OK USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel LIST/OK PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel LIST/OK DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel LIST_2/OK connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel LIST_2/OK USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel LIST_2/OK PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel LIST_2/OK DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel LIST_4/ERR_noSuchMess connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel LIST_4/ERR_noSuchMess USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel LIST_4/ERR_noSuchMess PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel LIST_4/ERR_noSuchMess DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel RETR_2/OK_weight connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel RETR_2/OK_weight USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel RETR_2/OK_weight PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel RETR_2/OK_weight DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel RETR_4/ERR_noSuchMess connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel RETR_4/ERR_noSuchMess USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel RETR_4/ERR_noSuchMess PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel RETR_4/ERR_noSuchMess DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/IncorrectCommand USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/IncorrectCommand PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/IncorrectCommand DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel DELE_4/ERR_noSuchMess connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel DELE_4/ERR_noSuchMess USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel DELE_4/ERR_noSuchMess PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel DELE_4/ERR_noSuchMess DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel RSET/OK_mailDrop connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel RSET/OK_mailDrop USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel RSET/OK_mailDrop PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel RSET/OK_mailDrop DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel QUIT/OK_serverSignOFF connect/OK_serverReady
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_4/ERR_noSuchMess connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_4/ERR_noSuchMess USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_4/ERR_noSuchMess PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel DELE_4/ERR_noSuchMess DELE_2/OK_messDel DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel RSET/OK_mailDrop connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel RSET/OK_mailDrop USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel RSET/OK_mailDrop PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel RSET/OK_mailDrop DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_2/OK_messDel QUIT/OK_serverSignOFF connect/OK_serverReady
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_4/ERR_noSuchMess connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_4/ERR_noSuchMess USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_4/ERR_noSuchMess PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel DELE_4/ERR_noSuchMess DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel RSET/OK_mailDrop connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel RSET/OK_mailDrop USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel RSET/OK_mailDrop PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel RSET/OK_mailDrop DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_2/OK_messDel QUIT/OK_serverSignOFF connect/OK_serverReady
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_4/ERR_noSuchMess connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_4/ERR_noSuchMess USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_4/ERR_noSuchMess PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK DELE_4/ERR_noSuchMess DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK RSET/OK_mailDrop connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK RSET/OK_mailDrop USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK RSET/OK_mailDrop PASS_0/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK RSET/OK_mailDrop DELE_2/OK_messDel DELE_2/OK_messDel DELE_2/OK_messDel
+connect/OK_serverReady USER/OK_passRequired PASS_1/OK QUIT/OK_serverSignOFF connect/OK_serverReady
+connect/OK_serverReady USER/OK_passRequired STAT/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired STAT/IncorrectCommand USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired STAT/IncorrectCommand PASS_0/ERR_noSuchUser
+connect/OK_serverReady USER/OK_passRequired LIST/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired LIST/IncorrectCommand USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired LIST/IncorrectCommand PASS_0/ERR_noSuchUser
+connect/OK_serverReady USER/OK_passRequired LIST_2/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired LIST_2/IncorrectCommand USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired LIST_2/IncorrectCommand PASS_0/ERR_noSuchUser
+connect/OK_serverReady USER/OK_passRequired LIST_4/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired LIST_4/IncorrectCommand USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired LIST_4/IncorrectCommand PASS_0/ERR_noSuchUser
+connect/OK_serverReady USER/OK_passRequired RETR_2/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired RETR_2/IncorrectCommand USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired RETR_2/IncorrectCommand PASS_0/ERR_noSuchUser
+connect/OK_serverReady USER/OK_passRequired RETR_4/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired RETR_4/IncorrectCommand USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired RETR_4/IncorrectCommand PASS_0/ERR_noSuchUser
+connect/OK_serverReady USER/OK_passRequired DELE_2/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired DELE_2/IncorrectCommand USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired DELE_2/IncorrectCommand PASS_0/ERR_noSuchUser
+connect/OK_serverReady USER/OK_passRequired DELE_4/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired DELE_4/IncorrectCommand USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired DELE_4/IncorrectCommand PASS_0/ERR_noSuchUser
+connect/OK_serverReady USER/OK_passRequired RSET/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired RSET/IncorrectCommand USER/IncorrectCommand
+connect/OK_serverReady USER/OK_passRequired RSET/IncorrectCommand PASS_0/ERR_noSuchUser
+connect/OK_serverReady USER/OK_passRequired QUIT/OK_serverSignOFF connect/OK_serverReady
+connect/OK_serverReady PASS_0/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady PASS_0/IncorrectCommand USER/OK_passRequired
+connect/OK_serverReady PASS_1/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady PASS_1/IncorrectCommand USER/OK_passRequired
+connect/OK_serverReady STAT/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady STAT/IncorrectCommand USER/OK_passRequired
+connect/OK_serverReady LIST/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady LIST/IncorrectCommand USER/OK_passRequired
+connect/OK_serverReady LIST_2/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady LIST_2/IncorrectCommand USER/OK_passRequired
+connect/OK_serverReady LIST_4/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady LIST_4/IncorrectCommand USER/OK_passRequired
+connect/OK_serverReady RETR_2/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady RETR_2/IncorrectCommand USER/OK_passRequired
+connect/OK_serverReady RETR_4/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady RETR_4/IncorrectCommand USER/OK_passRequired
+connect/OK_serverReady DELE_2/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady DELE_2/IncorrectCommand USER/OK_passRequired
+connect/OK_serverReady DELE_4/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady DELE_4/IncorrectCommand USER/OK_passRequired
+connect/OK_serverReady RSET/IncorrectCommand connect/IncorrectCommand
+connect/OK_serverReady RSET/IncorrectCommand USER/OK_passRequired
+connect/OK_serverReady QUIT/OK_serverSignOFF connect/OK_serverReady
+USER/IncorrectCommand connect/OK_serverReady
+PASS_0/IncorrectCommand connect/OK_serverReady
+PASS_1/IncorrectCommand connect/OK_serverReady
+STAT/IncorrectCommand connect/OK_serverReady
+LIST/IncorrectCommand connect/OK_serverReady
+LIST_2/IncorrectCommand connect/OK_serverReady
+LIST_4/IncorrectCommand connect/OK_serverReady
+RETR_2/IncorrectCommand connect/OK_serverReady
+RETR_4/IncorrectCommand connect/OK_serverReady
+DELE_2/IncorrectCommand connect/OK_serverReady
+DELE_4/IncorrectCommand connect/OK_serverReady
+RSET/IncorrectCommand connect/OK_serverReady
+QUIT/IncorrectCommand connect/OK_serverReady

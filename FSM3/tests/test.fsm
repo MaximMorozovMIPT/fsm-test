@@ -1,0 +1,19 @@
+F 0
+s 3 Listen Connect_0 Connect_1
+i 7 Connect MAILFROM_0 MAILFROM_1 RCPTTO_0 RCPTTO_1 DATA QUIT
+o 7 Service_ready SynraxErr OK NO_USER Start_mail Service_unavaliable Service_closing
+n0 Listen
+p 13
+Listen Connect Connect_0 Service_ready
+Connect_0 MAILFROM_0 Connect_1 SynraxErr
+Connect_0 MAILFROM_1 Connect_0 OK
+Connect_0 RCPTTO_0 Connect_1 NO_USER
+Connect_0 RCPTTO_1 Connect_0 OK
+Connect_0 DATA Connect_0 Start_mail
+Connect_0 QUIT Listen Service_closing
+Connect_1 MAILFROM_0 Connect_1 SynraxErr
+Connect_1 MAILFROM_1 Connect_0 OK
+Connect_1 RCPTTO_0 Connect_1 NO_USER
+Connect_1 RCPTTO_1 Connect_0 OK
+Connect_1 DATA Listen Service_unavaliable
+Connect_1 QUIT Listen Service_closing
