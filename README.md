@@ -1,6 +1,6 @@
 ## This repo represents EFSM mutant testing research
 
-There are five folders with FSM description 1-4 and 7.
+There are five folders with FSM description 1-5.
 
 Every FSM$X$ folder contains three other folders
 
